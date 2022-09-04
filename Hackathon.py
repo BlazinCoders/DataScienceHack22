@@ -21,7 +21,7 @@ async def start(client, message):
 @gotcha.on_message(filters.command(["help"],prefixChars))
 async def start(client, message):
     await message.reply_text(
-        text=f"This is Help text"
+        text=f"Click the below links to get what you want"
         "\nclick /reddit for reddit"
         "\nclick /news for news"
         "\nclick /wiki for wiki"
