@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+gnewsclient==1.12
+praw==7.6.0
+Pyrogram==2.0.46
+requests==2.28.1
